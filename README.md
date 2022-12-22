@@ -1,4 +1,4 @@
-# Data Analysis of salary data of the US
+# Data Analysis of Salary Data of the US
 This is a group project for the Data Analysis course. It is about the income imbalance, given features such as gender, race, educational level, etc.
 
 Link to our video: https://www.youtube.com/watch?v=ACO81g-__rk
